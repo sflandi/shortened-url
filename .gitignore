@@ -1,0 +1,10 @@
+**/*.env
+*.log
+.idea/
+.vscode/
+**/go.sum
+**/go.*.sum
+/build/
+/log
+
+.env
